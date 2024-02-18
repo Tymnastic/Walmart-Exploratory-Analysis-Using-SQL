@@ -101,17 +101,12 @@ After executing the SQL queries outlined earlier, the following results and insi
          Monday shows the lowest total sales revenue among the days, with $37,899.08, indicating that it is the least profitable day of the week
       
    - ![Daily sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072109.png)
-   - Insights: Sales performance varies significantly by month/day, with potential factors such as seasonality or promotions influencing sales.
+   - 
 
-7. **Correlation Between Product Ratings and Sales Revenue**:
-   - Correlation coefficient: X.
-   - Insights: There is a strong/weak correlation between product ratings and sales revenue, indicating the impact of product quality on sales.
-
-8. **Tax Contribution by Each Branch**:
-   - Branch A: Tax contribution is X%.
-   - Branch B: Tax contribution is X%.
-   - Branch C: Tax contribution is X%.
-   - Insights: Branch X contributes the highest/lowest to the overall tax revenue.
+7. **Tax Contribution by Each Branch**:
+   - Branch C leads in tax contributions with 34.24%, followed by Branch B and A with 32.88% each. This reflects Branch C's significant sales volume subject to taxation. Branches B and A demonstrate comparable tax          contributions, indicating consistent sales activity. Understanding these patterns aids in strategic resource allocation and tax planning.
+   - 
+   - ![Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
 
 9. **Top Selling Products in Each Branch**:
    - Branch A: Product X.
