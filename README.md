@@ -115,7 +115,7 @@ After executing the SQL queries outlined earlier, the following results and insi
       Branch B: Sports and Travel, $19,988.20
       Branch C: Food and Beverages, $23,766.85
      
-    ![Top selling products]([Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
+    ![Top selling product in each brand](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071950.png)
 
 
 11. **Gender Distribution of Customers Across Branches**:
