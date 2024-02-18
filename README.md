@@ -15,7 +15,7 @@ Welcome to the Walmart Sales Analysis project! This project aims to analyze sale
 7. **Top Selling Products in Each Branch**: Identify the top selling products in each branch to focus on high-performing items.
 8. **Gender Distribution of Customers Across Branches**: Explore the gender distribution of customers across branches to understand market segmentation.
 9. **Peak and Dip Times of Sales Throughout the Day**: Analyze peak and dip times of sales throughout the day to optimize staffing and resource allocation.
-11. **Frequency of Purchases for Members vs. Regular Customers**: Compare the frequency of purchases for members vs. regular customers to understand customer loyalty and retention.
+10. **Frequency of Purchases for Members vs. Regular Customers**: Compare the frequency of purchases for members vs. regular customers to understand customer loyalty and retention.
 
 
 ### Data Exploration
@@ -43,11 +43,8 @@ The dataset contains sales data from Walmart, including information such as invo
 
 9. **Peak and Dip Times of Sales Throughout the Day**: Analyzes peak and dip times of sales throughout the day to optimize staffing and resource allocation.
 
-10. **Product Lines with Highest Gross Margin Percentage**: Identifies product lines with the highest gross margin percentage, prioritizing high-profit items.
+10. **Frequency of Purchases for Members vs. Regular Customers**: Compares the frequency of purchases for members vs. regular customers, providing insights into customer loyalty and retention.
 
-11. **Frequency of Purchases for Members vs. Regular Customers**: Compares the frequency of purchases for members vs. regular customers, providing insights into customer loyalty and retention.
-
-Excellent! Let's continue with the Results and Insights section:
 
 ### Results and Insights
 
