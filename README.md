@@ -84,12 +84,21 @@ After executing the SQL queries outlined earlier, the following results and insi
 
 6. **Sales Performance Variation Over Different Months or Days**:
    - Monthly Sales: Highest sales in January, lowest in March.
+      - The analysis of sales performance across different months reveals the following key insights:
+         January emerges as the most profitable month, with total sales revenue amounting to $116,291.87, indicating strong consumer spending and sales activity during this period.
+         March follows closely behind January with total sales revenue of $109,455.51, demonstrating continued robust sales performance.
+         February exhibits comparatively lower sales revenue compared to January and March, with a total of $97,219.37, suggesting a potential dip in consumer spending or sales activity during this month.
+         This analysis can provide valuable insights into seasonal trends and patterns in sales performance, enabling businesses to adjust marketing strategies, inventory levels, and promotional activities to 
+         capitalize on peak sales months and address challenges during slower months
+        
+   - ![Monthly sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072132.png)
+   
    - Daily Sales: Peak sales occur on Saturday, followed by Monday.  
-   -  Saturday has the highest total sales revenue, amounting to $56,120.81, indicating that it is the most profitable day of the week.
-      Tuesday follows closely behind with total sales revenue of $51,482.25, suggesting that it is also a strong sales day.
-      Thursday and Sunday exhibit relatively lower sales revenue compared to Saturday and Tuesday, with values of $45,349.25 and $44,457.89 respectively.
-      Friday and Wednesday demonstrate similar sales performance, with total sales revenue of $43,926.34 and $43,731.14 respectively, falling slightly below the figures for Tuesday, Thursday, and Sunday.
-      Monday shows the lowest total sales revenue among the days, with $37,899.08, indicating that it is the least profitable day of the week
+     -  Saturday has the highest total sales revenue, amounting to $56,120.81, indicating that it is the most profitable day of the week.
+         Tuesday follows closely behind with total sales revenue of $51,482.25, suggesting that it is also a strong sales day.
+         Thursday and Sunday exhibit relatively lower sales revenue compared to Saturday and Tuesday, with values of $45,349.25 and $44,457.89 respectively.
+         Friday and Wednesday demonstrate similar sales performance, with total sales revenue of $43,926.34 and $43,731.14 respectively, falling slightly below the figures for Tuesday, Thursday, and Sunday.
+         Monday shows the lowest total sales revenue among the days, with $37,899.08, indicating that it is the least profitable day of the week
       
    - ![Daily sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072109.png)
    - Insights: Sales performance varies significantly by month/day, with potential factors such as seasonality or promotions influencing sales.
