@@ -100,13 +100,14 @@ After executing the SQL queries outlined earlier, the following results and insi
          Friday and Wednesday demonstrate similar sales performance, with total sales revenue of $43,926.34 and $43,731.14 respectively, falling slightly below the figures for Tuesday, Thursday, and Sunday.
          Monday shows the lowest total sales revenue among the days, with $37,899.08, indicating that it is the least profitable day of the week
       
-   - ![Daily sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072109.png)
-   - 
+    ![Daily sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072109.png)
+   
 
 7. **Tax Contribution by Each Branch**:
    - Branch C leads in tax contributions with 34.24%, followed by Branch B and A with 32.88% each. This reflects Branch C's significant sales volume subject to taxation. Branches B and A demonstrate comparable tax          contributions, indicating consistent sales activity. Understanding these patterns aids in strategic resource allocation and tax planning.
    - 
-   - ![Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
+    ![Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
+     
 
 9. **Top Selling Products in Each Branch**: .
    - Each branch's top-selling product:
@@ -114,7 +115,7 @@ After executing the SQL queries outlined earlier, the following results and insi
       Branch B: Sports and Travel, $19,988.20
       Branch C: Food and Beverages, $23,766.85
      
-    ![Top selling products](![Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
+    ![Top selling products]([Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
 
 
 11. **Gender Distribution of Customers Across Branches**:
