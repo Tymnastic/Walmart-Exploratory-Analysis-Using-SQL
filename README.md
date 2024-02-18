@@ -60,10 +60,12 @@ After executing the SQL queries outlined earlier, the following results and insi
       ![Total Revenue by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071350.png)
 
 2. **Popular Product Line Generating Highest Revenue**:
+   - Insights: The Food and beverage  product lines are the top revenue generators although other there are not so much margin between other product lines.
+   - 
+
      ![Product line Revenue](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071736.png)
    
-   - Insights: The Food and beverage  product lines are the top revenue generators although other there are not so much margin between other product lines.
-
+  
 4. **Distribution of Customer Types Across Branches**:
    - Member: X% across all branches.
    - Normal: X% across all branches.
