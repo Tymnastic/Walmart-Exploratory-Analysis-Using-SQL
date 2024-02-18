@@ -78,10 +78,9 @@ After executing the SQL queries outlined earlier, the following results and insi
    - ![Distribution of Customers Across Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072232.png)
 
 5. **Most Commonly Used Payment Method**:
-   - Ewallet: X% of transactions.
-   - Credit card: X% of transactions.
-   - Cash: X% of transactions.
-   - Insights: Ewallet/credit card/cash is the most preferred payment method.
+   - Insights: The most commonly used payment methods across transactions are as follows:
+  
+   - ![payment Method used](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072156.png)
 
 6. **Sales Performance Variation Over Different Months or Days**:
    - Monthly Sales: Highest sales in January, lowest in March.
