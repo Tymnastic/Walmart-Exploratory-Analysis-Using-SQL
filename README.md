@@ -108,16 +108,19 @@ After executing the SQL queries outlined earlier, the following results and insi
    - 
    - ![Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
 
-9. **Top Selling Products in Each Branch**:
-   - Branch A: Product X.
-   - Branch B: Product Y.
-   - Branch C: Product Z.
-   - Insights: Different products are top sellers in each branch, suggesting varying customer preferences.
+9. **Top Selling Products in Each Branch**: .
+   - Each branch's top-selling product:
+      Branch A: Home and Lifestyle, $22,417.20
+      Branch B: Sports and Travel, $19,988.20
+      Branch C: Food and Beverages, $23,766.85
+     
+    ![Top selling products](![Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
 
-10. **Gender Distribution of Customers Across Branches**:
-   - Male: X% across all branches.
-   - Female: X% across all branches.
+
+11. **Gender Distribution of Customers Across Branches**:
    - Insights: There is a balanced/imbalanced gender distribution across branches.
+   -  ![Gender Distribution Across Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072232.png)
+
 
 11. **Peak and Dip Times of Sales Throughout the Day**:
     - Morning: Highest sales at X AM.
