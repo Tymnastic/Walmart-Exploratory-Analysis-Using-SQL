@@ -1,5 +1,4 @@
 # Walmart-Exploratory-Analysis-Using-SQL
-Sure! Let's start drafting the mockup and documentation for each section based on the provided SQL queries and business questions. We'll begin with the Introduction section:
 
 ### Introduction
 
@@ -25,10 +24,7 @@ Welcome to the Walmart Sales Analysis project! This project aims to analyze sale
 #### Description of the Dataset
 The dataset contains sales data from Walmart, including information such as invoice ID, branch, city, customer type, gender, product line, unit price, quantity, tax, total, date, time, payment method, cost of goods sold (COGS), gross margin percentage, gross income, and rating.
 
-#### Exploratory Data Analysis Findings
-Understood! Let's continue with the SQL Queries section. We'll analyze each SQL query provided and how it addresses the business questions. Here's the breakdown:
-
-## SQL Queries
+#### SQL Queries
 
 1. **Total Sales Revenue for Each Branch**: This query calculates the total sales revenue for each branch, providing insights into the contribution of each location to overall revenue.
 
