@@ -127,16 +127,13 @@ After executing the SQL queries outlined earlier, the following results and insi
 
  
 11. **Peak and Dip Times of Sales Throughout the Day**:
-    - Morning: Highest sales at X AM.
-    - Afternoon: Highest sales at X PM.
-    - Evening: Highest sales at X PM.
-    - Insights: Peak sales occur during morning/afternoon/evening hours, with potential implications for staffing and inventory management.
-   
+       - Peak sales occur at 20:00 with 99 transactions, indicating high demand during evening hours.
+         Following closely, sales peak at 13:00 and 15:00 with 98 and 97 transactions respectively.
+         Dip in sales is observed at 21:00 with only 38 transactions, indicating lower demand during late evening hours.
+      
    ![Peak and dip time of sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20091447.png)   
 
    
-
- 
 
 12. **Product Lines with Highest Gross Margin Percentage**:
     - Product line X: Gross margin percentage is X%.
