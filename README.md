@@ -57,19 +57,24 @@ After executing the SQL queries outlined earlier, the following results and insi
 1. **Total Sales Revenue for Each Branch**:
    - Insights: Branch C contributes the highest to the overall sales revenue with a contribution of $110568.71 .
    - 
+     
       ![Total Revenue by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071350.png)
 
 2. **Popular Product Line Generating Highest Revenue**:
-   - Insights: The Food and beverage  product lines are the top revenue generators although other there are not so much margin between other product lines.
+   - Insights: While the Food and Beverage product lines emerge as the primary revenue drivers, there exists a relatively narrower margin in revenue generation across other product lines.
    - 
 
      ![Product line Revenue](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071736.png)
    
   
 4. **Distribution of Customer Types Across Branches**:
-   - Member: X% across all branches.
-   - Normal: X% across all branches.
-   - Insights: There is a higher/lower proportion of member/normal customers across branches.
+   - Insights: The distribution of customer types across branches shows a slightly higher prevalence of members compared to normal customers. Specifically:
+
+            Branch A has 167 members and 173 normal customers.
+            Branch B has 165 members and 167 normal customers.
+            Branch C has 169 members and 159 normal customers.
+  
+   - ![Distribution of Customers Across Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072232.png)
 
 5. **Most Commonly Used Payment Method**:
    - Ewallet: X% of transactions.
