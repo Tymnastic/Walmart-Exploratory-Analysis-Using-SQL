@@ -15,7 +15,6 @@ Welcome to the Walmart Sales Analysis project! This project aims to analyze sale
 7. **Top Selling Products in Each Branch**: Identify the top selling products in each branch to focus on high-performing items.
 8. **Gender Distribution of Customers Across Branches**: Explore the gender distribution of customers across branches to understand market segmentation.
 9. **Peak and Dip Times of Sales Throughout the Day**: Analyze peak and dip times of sales throughout the day to optimize staffing and resource allocation.
-10. **Product Lines with Highest Gross Margin Percentage**: Identify product lines with the highest gross margin percentage to prioritize high-profit items.
 11. **Frequency of Purchases for Members vs. Regular Customers**: Compare the frequency of purchases for members vs. regular customers to understand customer loyalty and retention.
 
 
@@ -55,78 +54,78 @@ Excellent! Let's continue with the Results and Insights section:
 After executing the SQL queries outlined earlier, the following results and insights were obtained:
 
 1. **Total Sales Revenue for Each Branch**:
-   - Insights: Branch C contributes the highest to the overall sales revenue with a contribution of $110568.71 .
-   - 
+      - Insights: Branch C contributes the highest to the overall sales revenue with a contribution of $110568.71 .
+
      
-      ![Total Revenue by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071350.png)
+  ![Total Revenue by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071350.png)
 
 2. **Popular Product Line Generating Highest Revenue**:
-   - Insights: While the Food and Beverage product lines emerge as the primary revenue drivers, there exists a relatively narrower margin in revenue generation across other product lines.
-   - 
+      - Insights: While the Food and Beverage product lines emerge as the primary revenue drivers, there exists a relatively narrower margin in revenue generation across other product lines.
+        
 
-     ![Product line Revenue](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071736.png)
+ ![Product line Revenue](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071736.png)
    
   
-4. **Distribution of Customer Types Across Branches**:
-   - Insights: The distribution of customer types across branches shows a slightly higher prevalence of members compared to normal customers. Specifically:
+3. **Distribution of Customer Types Across Branches**:
+      - The distribution of customer types across branches shows a slightly higher prevalence of members compared to normal customers.
+   
+               Branch A has 167 members and 173 normal customers.
+               Branch B has 165 members and 167 normal customers.
+               Branch C has 169 members and 159 normal customers.
+        This indicates a relatively balanced distribution of customer types across branches, with members being slightly more prevalent. This could suggest a potential opportunity for targeted marketing or loyalty             programs aimed at retaining and attracting more members.
+     
+ ![Distribution of Customers Across Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072232.png)
 
-            Branch A has 167 members and 173 normal customers.
-            Branch B has 165 members and 167 normal customers.
-            Branch C has 169 members and 159 normal customers.
-     This indicates a relatively balanced distribution of customer types across branches, with members being slightly more prevalent. This could suggest a potential opportunity for targeted marketing or loyalty             programs aimed at retaining and attracting more members.
+4. **Most Commonly Used Payment Method**:
+      - The most commonly used payment methods across transactions are as follows:
   
-   - ![Distribution of Customers Across Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072232.png)
+ ![payment Method used](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072156.png)
 
-5. **Most Commonly Used Payment Method**:
-   - Insights: The most commonly used payment methods across transactions are as follows:
-  
-   - ![payment Method used](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072156.png)
-
-6. **Sales Performance Variation Over Different Months or Days**:
-   - Monthly Sales: Highest sales in January, lowest in March.
-      - The analysis of sales performance across different months reveals the following key insights:
-         January emerges as the most profitable month, with total sales revenue amounting to $116,291.87, indicating strong consumer spending and sales activity during this period.
-         March follows closely behind January with total sales revenue of $109,455.51, demonstrating continued robust sales performance.
-         February exhibits comparatively lower sales revenue compared to January and March, with a total of $97,219.37, suggesting a potential dip in consumer spending or sales activity during this month.
-         This analysis can provide valuable insights into seasonal trends and patterns in sales performance, enabling businesses to adjust marketing strategies, inventory levels, and promotional activities to 
-         capitalize on peak sales months and address challenges during slower months
-        
-   - ![Monthly sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072132.png)
+5. **Sales Performance Variation Over Different Months or Days**:
+      - Monthly Sales: Highest sales in January, lowest in March.
+         - The analysis of sales performance across different months reveals the following key insights:
+            January emerges as the most profitable month, with total sales revenue amounting to $116,291.87, indicating strong consumer spending and sales activity during this period.
+            March follows closely behind January with total sales revenue of $109,455.51, demonstrating continued robust sales performance.
+            February exhibits comparatively lower sales revenue compared to January and March, with a total of $97,219.37, suggesting a potential dip in consumer spending or sales activity during this month.
+            This analysis can provide valuable insights into seasonal trends and patterns in sales performance, enabling businesses to adjust marketing strategies, inventory levels, and promotional activities to 
+            capitalize on peak sales months and address challenges during slower months
+           
+ ![Monthly sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072132.png)
    
    - Daily Sales: Peak sales occur on Saturday, followed by Monday.  
-     -  Saturday has the highest total sales revenue, amounting to $56,120.81, indicating that it is the most profitable day of the week.
-         Tuesday follows closely behind with total sales revenue of $51,482.25, suggesting that it is also a strong sales day.
-         Thursday and Sunday exhibit relatively lower sales revenue compared to Saturday and Tuesday, with values of $45,349.25 and $44,457.89 respectively.
-         Friday and Wednesday demonstrate similar sales performance, with total sales revenue of $43,926.34 and $43,731.14 respectively, falling slightly below the figures for Tuesday, Thursday, and Sunday.
-         Monday shows the lowest total sales revenue among the days, with $37,899.08, indicating that it is the least profitable day of the week
-      
-    ![Daily sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072109.png)
+        -  Saturday has the highest total sales revenue, amounting to $56,120.81, indicating that it is the most profitable day of the week.
+            Tuesday follows closely behind with total sales revenue of $51,482.25, suggesting that it is also a strong sales day.
+            Thursday and Sunday exhibit relatively lower sales revenue compared to Saturday and Tuesday, with values of $45,349.25 and $44,457.89 respectively.
+            Friday and Wednesday demonstrate similar sales performance, with total sales revenue of $43,926.34 and $43,731.14 respectively, falling slightly below the figures for Tuesday, Thursday, and Sunday.
+            Monday shows the lowest total sales revenue among the days, with $37,899.08, indicating that it is the least profitable day of the week
+         
+ ![Daily sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072109.png)
    
 
-7. **Tax Contribution by Each Branch**:
+6. **Tax Contribution by Each Branch**:
    - Branch C leads in tax contributions with 34.24%, followed by Branch B and A with 32.88% each. This reflects Branch C's significant sales volume subject to taxation. Branches B and A demonstrate comparable tax          contributions, indicating consistent sales activity. Understanding these patterns aids in strategic resource allocation and tax planning.
    - 
-    ![Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
+  ![Tax Contribution by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072021.png)
      
 
-9. **Top Selling Products in Each Branch**: .
-   - Each branch's top-selling product:
-      Branch A: Home and Lifestyle, $22,417.20
-      Branch B: Sports and Travel, $19,988.20
-      Branch C: Food and Beverages, $23,766.85
+7. **Top Selling Products in Each Branch**: .
+      - Each branch's top-selling product:
+         Branch A: Home and Lifestyle, $22,417.20
+         Branch B: Sports and Travel, $19,988.20
+         Branch C: Food and Beverages, $23,766.85
      
     ![Top selling product in each brand](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071950.png)
 
 
-11. **Gender Distribution of Customers Across Branches**:
-   - Branch C has the highest proportion of female customers at 54.27%, suggesting potential preferences or marketing effectiveness targeting this demographic.
-     Branch A and B show a relatively balanced gender distribution, with slight male predominance in Branch A and female predominance in Branch B.
-     Understanding these distributions aids in targeted marketing and product assortment strategies to better serve diverse customer bases.
-     
+8. **Gender Distribution of Customers Across Branches**:
+      - Branch C has the highest proportion of female customers at 54.27%, suggesting potential preferences or marketing effectiveness targeting this demographic.
+        Branch A and B show a relatively balanced gender distribution, with slight male predominance in Branch A and female predominance in Branch B.
+        Understanding these distributions aids in targeted marketing and product assortment strategies to better serve diverse customer bases.
+        
  ![Gender distribution](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071912.png)   
 
  
-11. **Peak and Dip Times of Sales Throughout the Day**:
+9. **Peak and Dip Times of Sales Throughout the Day**:
        - Peak sales occur at 20:00 with 99 transactions, indicating high demand during evening hours.
          Following closely, sales peak at 13:00 and 15:00 with 98 and 97 transactions respectively.
          Dip in sales is observed at 21:00 with only 38 transactions, indicating lower demand during late evening hours.
@@ -135,17 +134,12 @@ After executing the SQL queries outlined earlier, the following results and insi
 
    
 
-12. **Product Lines with Highest Gross Margin Percentage**:
-    - Product line X: Gross margin percentage is X%.
-    - Product line Y: Gross margin percentage is X%.
-    - Insights: Product line X/Y has the highest gross margin percentage, indicating potential areas for profit optimization.
+10. **Frequency of Purchases for Members vs. Regular Customers**:
+      Normal customers made 2725 purchases, with an average day difference of 88 days, resulting in approximately 30 orders per day.
+      Members made slightly more purchases (2785), with a similar day difference of 88 days, resulting in approximately 31 orders per day.
+      This data suggests that members tend to make slightly more frequent purchases compared to normal customers
+         
+![Frequency of purchase](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071503.png)  
 
-13. **Frequency of Purchases for Members vs. Regular Customers**:
-    - Members: Average X purchases per month.
-    - Regular customers: Average X purchases per month.
-    - Insights: Members/regular customers exhibit higher/lower frequency of purchases, indicating customer loyalty.
 
-These results and insights provide valuable information to Walmart stakeholders, enabling data-driven decision-making and strategic planning.
-
-Next, we'll wrap up the project with the Conclusion section. Let me know if you're ready to proceed!
 
