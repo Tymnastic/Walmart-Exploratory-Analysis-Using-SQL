@@ -159,14 +159,14 @@ The Walmart Sales Analysis project has provided valuable insights into various a
 #### Recommendations:
 
 - Optimize inventory management and marketing strategies based on popular product lines and customer preferences.
-- Enhance customer engagement and loyalty programs to retain members and attract new customers.
+- Enhance customer engagement and loyalty programs to retain members and attract new customers, and also convert normal customers to members.
 - Optimize payment processing systems to accommodate the most commonly used payment methods.
 - Adjust staffing and resource allocation based on peak and dip times of sales throughout the day especially afternoon and evening times.
 - Implement targeted marketing campaigns based on customer demographics and purchasing behaviors.
 
  The insights derived from this analysis can inform strategic decision-making and drive business growth for Walmart.
 
-### Thank you for joining us on this journey of data exploration and analysis!
+### Thank you for joining me on this journey of data exploration and analysis!
 
 
 
