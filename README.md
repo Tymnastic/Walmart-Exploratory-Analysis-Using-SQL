@@ -56,10 +56,7 @@ After executing the SQL queries outlined earlier, the following results and insi
 
 1. **Total Sales Revenue for Each Branch**:
    - Insights: Branch C contributes the highest to the overall sales revenue.
- <p align="center">
-![Total Revenue by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071350.png)
-
-</p>
+ <p align="center">![Total Revenue by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071350.png)</p>
 
 2. **Popular Product Line Generating Highest Revenue**:
    - Health and beauty: Total revenue is $XXX.
