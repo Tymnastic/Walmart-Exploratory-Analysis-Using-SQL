@@ -139,4 +139,36 @@ After executing the SQL queries outlined earlier, the following results and insi
 ![Frequency of purchase](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071503.png)  
 
 
+### Conclusion
+
+The Walmart Sales Analysis project has provided valuable insights into various aspects of the business, leveraging SQL queries to analyze sales data and address key business questions. Through this analysis, we have gained a deeper understanding of sales performance, customer behavior, and product trends across different branches.
+
+#### Key Findings:
+
+- **Total Sales Revenue**: Branch C contributes the highest to the overall sales revenue.
+- **Popular Product Lines**: The Food and Beverages product lines are the top revenue generators.
+- **Customer type distribution**: The Proportion and distribution of members and normal customers across branches are almost equally distributed.
+- **Payment Preferences**: Ewallet is the most preferred payment method.
+- **Sales Performance Variation**: A lot of sales transaction happens towards the evening time between the hours of 13:00 to 20:00
+- **Tax Contribution**: Branch C contributes the highest to the overall tax revenue.
+- **Top Selling Products**: Different products are top sellers in each branch, suggesting varying customer preferences.
+- **Gender Distribution**: There is a balanced gender distribution across branches except for branch C with a higher percentage of female (54.27%)  .
+- **Peak and Dip Times of Sales**: Peak sales occur during morning/afternoon/evening hours, with implications for staffing and inventory management.
+- **Customer Loyalty**: Members customers exhibit higher frequency of purchases which is alittle bit more than Normal customers.
+
+#### Recommendations:
+
+- Optimize inventory management and marketing strategies based on popular product lines and customer preferences.
+- Enhance customer engagement and loyalty programs to retain members and attract new customers.
+- Optimize payment processing systems to accommodate the most commonly used payment methods.
+- Adjust staffing and resource allocation based on peak and dip times of sales throughout the day especially afternoon and evening times.
+- Implement targeted marketing campaigns based on customer demographics and purchasing behaviors.
+
+ The insights derived from this analysis can inform strategic decision-making and drive business growth for Walmart.
+
+### Thank you for joining us on this journey of data exploration and analysis!
+
+
+
+
 
