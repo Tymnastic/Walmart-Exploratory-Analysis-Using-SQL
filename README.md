@@ -122,10 +122,7 @@ After executing the SQL queries outlined earlier, the following results and insi
    - Branch C has the highest proportion of female customers at 54.27%, suggesting potential preferences or marketing effectiveness targeting this demographic.
      Branch A and B show a relatively balanced gender distribution, with slight male predominance in Branch A and female predominance in Branch B.
      Understanding these distributions aids in targeted marketing and product assortment strategies to better serve diverse customer bases.
-           
-    ![Gender Distribution Across Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071912.png)
-
-
+ ![Gender distribution](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071912.png)    
 11. **Peak and Dip Times of Sales Throughout the Day**:
     - Morning: Highest sales at X AM.
     - Afternoon: Highest sales at X PM.
