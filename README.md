@@ -73,6 +73,7 @@ After executing the SQL queries outlined earlier, the following results and insi
             Branch A has 167 members and 173 normal customers.
             Branch B has 165 members and 167 normal customers.
             Branch C has 169 members and 159 normal customers.
+     This indicates a relatively balanced distribution of customer types across branches, with members being slightly more prevalent. This could suggest a potential opportunity for targeted marketing or loyalty             programs aimed at retaining and attracting more members.
   
    - ![Distribution of Customers Across Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20072232.png)
 
