@@ -59,7 +59,7 @@ After executing the SQL queries outlined earlier, the following results and insi
    - Branch B: Total sales revenue is $XXX.
    - Branch C: Total sales revenue is $XXX.
    - Insights: Branch X contributes the highest/lowest to the overall sales revenue.
-![Total Revenue by Branch](https://example.com/walmart_logo.png)
+![Total Revenue by Branch]([https://example.com/walmart_logo.png](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071350.png))
 
 
 2. **Popular Product Line Generating Highest Revenue**:
