@@ -132,7 +132,7 @@ After executing the SQL queries outlined earlier, the following results and insi
     - Evening: Highest sales at X PM.
     - Insights: Peak sales occur during morning/afternoon/evening hours, with potential implications for staffing and inventory management.
    
-   ![Peak and dip time of sales](![Gender distribution](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071912.png)   
+   ![Peak and dip time of sales](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20091447.png)   
 
    
 
