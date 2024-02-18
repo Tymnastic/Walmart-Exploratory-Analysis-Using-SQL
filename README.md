@@ -55,12 +55,11 @@ Excellent! Let's continue with the Results and Insights section:
 After executing the SQL queries outlined earlier, the following results and insights were obtained:
 
 1. **Total Sales Revenue for Each Branch**:
-   - Branch A: Total sales revenue is $X.
-   - Branch B: Total sales revenue is $XXX.
-   - Branch C: Total sales revenue is $XXX.
-   - Insights: Branch X contributes the highest/lowest to the overall sales revenue.
+   - Insights: Branch C contributes the highest to the overall sales revenue.
+ <p align="center">
 ![Total Revenue by Branch](https://github.com/Tymnastic/Walmart-Exploratory-Analysis-Using-SQL/blob/main/Screenshot%202024-02-18%20071350.png)
 
+</p>
 
 2. **Popular Product Line Generating Highest Revenue**:
    - Health and beauty: Total revenue is $XXX.
